@@ -9,13 +9,6 @@ Continuação dos estudos de front end, criando uma aba com diversas sections ap
 
 ---
 
-## ✨ Demonstração  
-<p align="center">  
-  <img src="img/Combo.png" alt="Banner do Combo+" width="600">  
-</p>  
-
----
-
 ## 🚀 Tecnologias Utilizadas  
 - **HTML5**  
 - **CSS3** (Variáveis, Grid Layout, Flexbox)  
