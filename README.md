@@ -1,27 +1,24 @@
-Continuação dos estudos de front end, criando uma aba com diversas sections apresentando o produto Alura+
-# 📺 Alura Plus - Plataforma de Cursos Online  
+# Alura Plus
 
-**Projeto de página estática para divulgação do serviço Alura+ e Combo+**  
+> Projeto de site responsivo desenvolvido com HTML e CSS.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+Este projeto simula uma página de assinatura de um serviço de streaming, inspirado na proposta do curso da Alura. O objetivo é treinar habilidades de estruturação de páginas com HTML e estilização com CSS.
 
----
+## 📋 Tecnologias Utilizadas
 
-## 🚀 Tecnologias Utilizadas  
-- **HTML5**  
-- **CSS3** (Variáveis, Grid Layout, Flexbox)  
-- **Fontes Google** (Inter)  
+- **HTML** – Para estruturação do conteúdo  
+- **CSS** – Para estilização visual
 
----
+## 📁 Estrutura do Projeto
 
-## 🎨 Design e Estrutura  
-### Cores Principais (`styles.css`):  
-```css  
-:root {  
-    --branco-principal: #FFFFFF;  
-    --botao-azul: #167BF7;  
-    --cinza-secundario: #C0C0C0;  
-    --cor-de-fundo: #00030C;  
-}  
+- `index.html` – Página principal  
+- `styles.css` – Estilos utilizados na página  
+- `img/` – Imagens utilizadas na interface
+
+## ⚙️ Como Executar o Projeto
+
+Siga os passos abaixo para visualizar o projeto localmente:
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/alura-plus.git
